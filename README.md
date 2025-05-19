@@ -1,26 +1,50 @@
 # Thrift Store
  
- 
-Scope of the Proposed System: - 
- 
-The main objective is to develop a “ECommerce website” that covers all the aspects of shopping online. 
- 
-Goals  
- 
-The primary goal of e-commerce is to reach maximum customers at 
-the right time to increase sales and profitability of the business. 
-Flexibility for customers. 
-Product and price comparison. User friendly. 
- 
-Objectives  
- 
-•	To make various products available to different citizens across India at best rate. 
-•	As time flow by, technology is evolving and most people love to do things with least labor. Like booking a cab with an app. Through this website people can shop huge number of things without stepping outside and can pay on delivery or online. 
-•	To provide a smooth interface to the user and help him/her find their desired product easily. 
- 
-Users 
- 
-Contact Persons (Admin): 
-These types of users perform all the transactions on behalf of the company. They can place orders on the company account and billing address. The admin can view orders of other contact persons of the same company. The admin can add or delete other contact persons of the company as well. 
-Contact Persons (Non-Admin): 
-The same as the contact person admin, the only difference is that they neither can create other contact persons, nor they, can view orders places by other 
+# 📦 Thrift Store — E-Commerce Website
+
+🛍️ A comprehensive online shopping platform that brings convenience, reach, and affordability to users across India.
+
+---
+
+## 🔍 Scope of the Proposed System
+
+The main objective is to develop a full-featured 🛒 E-Commerce website that covers all aspects of online shopping — from browsing products to placing orders and making payments.
+
+---
+
+## 🎯 Goals
+
+- 📈 Reach maximum customers at the right time to boost sales and profitability.  
+- 🔄 Offer flexibility and convenience to users.  
+- 🔍 Enable easy product and price comparisons.  
+- 🤝 Ensure a user-friendly interface and shopping experience.
+
+---
+
+## 🧭 Objectives
+
+- 🌐 Make various products accessible to customers all over India at the best rates.  
+- 🚀 Embrace evolving technology to support modern, low-effort shopping experiences (like online cab bookings).  
+- 🧭 Provide a smooth and intuitive interface for users to find their desired products quickly.  
+- 💳 Support both cash-on-delivery and online payment methods.
+
+---
+
+## 👥 User Roles
+
+### 👤 Contact Persons (Admin)
+
+Admins are empowered with full system access:
+
+- Can perform all transactions on behalf of the company.
+- Can place orders using the company account and billing address.
+- Have visibility into all orders placed by contact persons under the same organization.
+- Can add or remove other contact persons.
+
+### 👥 Contact Persons (Non-Admin)
+
+These users have limited access:
+
+- Can perform standard transactions and place orders.
+- Cannot view orders placed by others or add new contact persons.
+
