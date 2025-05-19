@@ -1,5 +1,3 @@
-# Thrift Store
- 
 # 📦 Thrift Store — E-Commerce Website
 
 🛍️ A comprehensive online shopping platform that brings convenience, reach, and affordability to users across India.
