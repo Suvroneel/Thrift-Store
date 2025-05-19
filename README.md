@@ -18,14 +18,14 @@ The main objective is to develop a full-featured 🛒 E-Commerce website that co
 
 ---
 
-## 🎯 Goals
+## 🚀 What We Built
 
-- 📈 Reach maximum customers at the right time to boost sales and profitability.  
-- 🔄 Offer flexibility and convenience to users.  
-- 🔍 Enable easy product and price comparisons.  
-- 🤝 Ensure a user-friendly interface and shopping experience.
+- 🧱 Developed a full-stack e-commerce website using HTML, CSS, JavaScript, PHP, and MySQL.  
+- 📦 Implemented key features like product listings, shopping cart, user login, and admin dashboard.  
+- 🔐 Secured user authentication and payment options including Cash on Delivery and online transactions.  
+- 📊 Built an intuitive UI/UX for a seamless customer shopping experience across devices.  
+- 📈 Designed for scalability to support a growing product catalog and user base.
 
----
 
 ## 🧭 Objectives
 
